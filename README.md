@@ -12,6 +12,9 @@ This code framework is developed based on [Ali-Forootani's code](https://github.
 
 ## References
 [1] Schafer, Ronald W. "What is a savitzky-golay filter?[lecture notes]." IEEE Signal processing magazine 28.4 (2011): 111-117.
+
 [2] Vogel, Curtis R. Computational methods for inverse problems. Society for Industrial and Applied Mathematics, 2002.
+
 [3] Czarnecki, Wojciech M., et al. "Sobolev training for neural networks." Advances in neural information processing systems 30 (2017).
+
 [4] Forootani, Ali, Pawan Goyal, and Peter Benner. "A robust SINDy approach by combining neural networks and an integral form." arXiv preprint arXiv:2309.07193 (2023).

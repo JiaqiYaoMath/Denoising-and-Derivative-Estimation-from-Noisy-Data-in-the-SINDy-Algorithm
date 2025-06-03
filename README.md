@@ -4,7 +4,7 @@
 
 This repository contains the code used for the experimental part of my Honours project.
 
-This code framework is developed based on Ali-Forootani's code [1].
+This code framework is developed based on [Ali-Forootani's code](https://github.com/Ali-Forootani/iNeural_SINDy_paper) for I-NeuralSINDy [1].
 
 ## References
 [1] Forootani, Ali, Pawan Goyal, and Peter Benner. "A robust SINDy approach by combining neural networks and an integral form." arXiv preprint arXiv:2309.07193 (2023).

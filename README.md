@@ -8,7 +8,7 @@ In the project, we identify one research problem of the SINDy algorithm. That is
 
 Through extensive experiments, we demonstrate its superiority over existing methods. The experiment consists of two parts. First, at a fixed noise level, we test the performance of the five methods on different dynamic systems. Second, we test how the estimated errors of the five algorithms vary with the noise level for specific dynamic systems.
 
-This code framework is developed based on [Ali-Forootani's code](https://github.com/Ali-Forootani/iNeural_SINDy_paper) for I-NeuralSINDy [4].
+This code framework is developed based on [Ali-Forootani's code](https://github.com/Ali-Forootani/iNeural_SINDy_paper) for I-NeuralSINDy [4]. The code for implementing the total variation regularisation is mainly based on [Smrfeld's work](https://github.com/smrfeld/Total-Variation-Regularization-Derivative-Python).
 
 ## References
 [1] Schafer, Ronald W. "What is a savitzky-golay filter?[lecture notes]." IEEE Signal processing magazine 28.4 (2011): 111-117.
